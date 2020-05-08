@@ -2,7 +2,7 @@ import java.util.*;
 import java.math.*;
 import java.io.*;
 
-public class arcadebasketball{
+public class competitivearcadebasketball{
     public static void main(String[] args) throws Exception{
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter out = new PrintWriter(System.out);
