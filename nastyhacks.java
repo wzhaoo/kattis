@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class nasyhacks {
+public class nastyhacks {
     public static void main(String[] args) throws Exception{
         BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter output = new PrintWriter(System.out);
