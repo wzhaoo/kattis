@@ -26,22 +26,7 @@ public class primesieve {
             if(primes.get(Integer.parseInt(input.readLine()))) output.println("1");
             else output.println("0");
         }
-        /*Set<Integer> primes = new HashSet<Integer>();
-        primes.add(2);
-        outer:
-        for(int i = 3; i<N+1; i++){
-            for(int prime: primes){
-                if(i%prime == 0){
-                    continue outer;
-                }
-            }
-            primes.add(i);
-        }
-        output.println(primes.size());
-        for(int i = 0; i<Q; i++){
-            if(primes.contains(Integer.parseInt(input.readLine()))) output.println("1");
-            else output.println("0");
-        }*/
+        
         output.close();
     }
 }
