@@ -6,5 +6,8 @@ Class names correspond to the problem IDs on the website, and can be found throu
 
 Ranks as of 07/01/2020:
 Kentucky - #1
+
 University of North Carolina at Chapel Hill - #4
+
 Global - #939
+
